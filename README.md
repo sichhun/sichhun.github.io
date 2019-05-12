@@ -1,2 +1,1 @@
-# sichhun.github.io
-github pages repo
+sichhun.github.io
